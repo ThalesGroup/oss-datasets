@@ -1,46 +1,22 @@
-# Thales Open Source Template Project
+# Thales Open Source Datasets
 
-Template for creating a new project in the [Thales GitHub organization](https://github.com/ThalesGroup). 
+The purpose of this project is to list all open source datasets shared by Thales.
 
-Each Thales OSS project repository **MUST** contain the following files at the root:
-
-- a `LICENSE` which has been chosen in accordance with legal department depending on your needs 
-
-- a `README.md` outlining the project goals, sponsoring sig, and community contact information, [GitHub tips about README.md](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
-
-- a `CONTRIBUTING.md` outlining how to contribute to the project, how to submit a pull request and an issue
-
-- a `SECURITY.md` outlining how the security concerns are handled, [GitHub tips about SECURITY.md](https://docs.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository)
-
-Below is an example of the common structure and information expected in a README.
-
-**Please keep this structure as is and only fill the content for each section according to your project.**
-
-If you need assistance or have question, please contact oss@thalesgroup.com 
+We are using https://www.kaggle.com/thalesgroup account to host most of them.
 
 
+## Datasets
+| Category      | Dataset       | Description  | Related repository |
+| ------------- | ------------- | ------------ | ------------       |   
+| Machine Learning | [ConceptBert](https://www.kaggle.com/datasets/thalesgroup/conceptbert)  | Results of ConceptBERT approach on OK-VQA dataset | https://github.com/ThalesGroup/ConceptBERT|
+| NLP | [mt5-nlp](https://www.kaggle.com/datasets/thalesgroup/mt5nlp)  | Tabular dataset for NLP, aggregation of dataset to train a multi task model | |
 
-## Get started
 
-XXX project purpose it to ...
-
-**Please also add the description into the About section (Description field)**
-
-## Documentation
-
-Documentation is available at [xxx/docs](https://xxx/docs/).
-
-You can use [GitHub pages](https://guides.github.com/features/pages/) to create your documentation.
-
-See an example here : https://github.com/ThalesGroup/ThalesGroup.github.io
-
-**Please also add the documentation URL into the About section (Website field)**
 
 ## Contributing
 
-If you are interested in contributing to the XXX project, start by reading the [Contributing guide](/CONTRIBUTING.md).
+If you are Thales group employee and you want to submit a new dataset or if you are interested in contributing to any dataset, please contact us at oss@thalesgroup.com
 
 ## License
 
-The chosen license in accordance with legal department must be defined into an explicit [LICENSE](https://github.com/ThalesGroup/template-project/blob/master/LICENSE) file at the root of the repository
-You can also link this file in this README section.
+Each shared dataset defines its own license, please refer to it
