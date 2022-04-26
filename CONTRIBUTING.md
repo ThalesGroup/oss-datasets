@@ -1,29 +1,3 @@
-Describe in this file 
-- team organization, roles, communication 
-- the rules to be respected by your future contributors
+## How to contribute ?
 
-# Contributing guidelines
-
-## Team organization
-
-### Roles
-
-## How to become a contributor
-
-### Contributor License Agreements
-
-### Contributing code
-
-## Pull Request Checklist
-
-### License
-
-### Coding style
-
-### Testing
-
-#### Running sanity check
-
-#### Running unit tests
-
-### Issues management
+If you are Thales group employee and you want to submit a new dataset or if you are interested in contributing to any dataset, please contact us at oss@thalesgroup.com
