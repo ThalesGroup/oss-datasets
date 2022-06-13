@@ -8,8 +8,8 @@ We are using https://www.kaggle.com/thalesgroup account to host most of them.
 ## Datasets
 | Category      | Dataset       | Description  | Related repository | Contact |
 | ------------- | ------------- | ------------ | ------------       | ------------  |   
-| Machine Learning | [ConceptBert](https://www.kaggle.com/datasets/thalesgroup/conceptbert)  | Results of ConceptBERT approach on OK-VQA dataset | https://github.com/ThalesGroup/ConceptBERT| [helion-du-mas-des-bourboux-thales](https://github.com/orgs/ThalesGroup/people/helion-du-mas-des-bourboux-thales)|
-| Machine Learning, radio | [AugMod](https://www.kaggle.com/datasets/hdumasde/pythagoremodreco) | A dataset for radio signal modulation recognition | https://github.com/ThalesGroup/pythagore-mod-reco| [helion-du-mas-des-bourboux-thales](https://github.com/orgs/ThalesGroup/people/helion-du-mas-des-bourboux-thales)|
+| Machine Learning | [ConceptBert](https://www.kaggle.com/datasets/thalesgroup/conceptbert)  | Results of ConceptBERT approach on OK-VQA dataset | https://github.com/ThalesGroup/ConceptBERT| [mgautier-thales](https://github.com/mgautier-thales)|
+| Machine Learning, radio | [AugMod](https://www.kaggle.com/datasets/hdumasde/pythagoremodreco) | A dataset for radio signal modulation recognition | https://github.com/ThalesGroup/pythagore-mod-reco| [helion-du-mas-des-bourboux-thales](https://github.com/helion-du-mas-des-bourboux-thales)|
 | NLP | [mt5-nlp](https://www.kaggle.com/datasets/thalesgroup/mt5nlp)  | Tabular dataset for NLP, aggregation of dataset to train a multi task model | | |
 
 ## Contributing
